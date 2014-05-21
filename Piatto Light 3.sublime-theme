@@ -692,7 +692,7 @@
     {
         "class": "icon_folder",
         "layer0.texture": "Theme - Piatto/Piatto Light/folder-closed.png",
-        "later0.opacity": 1.0,
+        "layer0.opacity": 1.0,
         "content_margin": [8, 8]
     },
     {
