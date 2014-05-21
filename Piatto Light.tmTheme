@@ -42,6 +42,8 @@
 				<string>#d2d2d2</string>
 				<key>inactiveSelection</key>
 				<string>#d2d2d2</string>
+				<key>shadow</key>
+				<string>#d2d2d2</string>
 			</dict>
 		</dict>
 		<dict>
