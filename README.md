@@ -55,9 +55,9 @@ To configure Sublime Text to use the theme, follow the instructions below for yo
 
 ### Sidebar Folder Icons
 
-Piatto Theme has the ability to use folder icons in the sidebar.
+Piatto Theme has folder icons by default with Sublime Text 3.
 
-If you'd like to use folder icons in the sidebar instead of the regular arrows, add the following custom setting to your `Settings - User` file:
+If you'd like to use folder icons in the Sublime Text 2 sidebar instead of the regular arrows, add the following custom setting to your `Settings - User` file:
 
     "piatto_folder_icons": true
 
